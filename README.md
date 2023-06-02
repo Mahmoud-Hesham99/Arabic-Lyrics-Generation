@@ -33,7 +33,10 @@ To reproduce the results :
 
 - The GPT-2 model used in this project is based on the implementation by OpenAI. Check their repository for more information: [OpenAI GPT-2](https://github.com/openai/gpt-2)
 
-
+## Use the following notebook to test the models 
+-  Make sure to use GPU accelerator fot the notebook to run
+-  Run all cells and use the function test_generated_model to input a prompt and choose your preferred dialect
+-  https://www.kaggle.com/mahmoudhesham989/testing-generated-models
 
 
 
